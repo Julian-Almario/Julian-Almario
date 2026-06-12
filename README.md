@@ -10,13 +10,14 @@ Además de mis estudios médicos, dedico mi tiempo libre a explorar la ingenier�
 
 Me apasiona la investigación interdisciplinaria, y busco desarrollar soluciones que puedan mejorar la calidad de vida de las personas, combinando el rigor de las ciencias básicas con la aplicación práctica en el campo de la salud.
 
----
 ## Tecnologias y pasatiempos
 
 - Python
 - Linux
 - Redes de datos
 - Web frontentd
+- C
+- C++
 
 
 ## Cosas en las que todavia no soy experto pero estoy aprendiendo
