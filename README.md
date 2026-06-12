@@ -26,7 +26,7 @@ Me apasiona la investigación interdisciplinaria, y busco desarrollar soluciones
 - Electronica
 
 ## Mas de mi tiempo libre
-- lectura filosofia, ciencias, finanzas, medicina, estoicistmo, crecimiento personal
+- intereses literarios: filosofia, ciencias, finanzas, medicina, estoicistmo, crecimiento personal
 - en ocasiones dibujo ya no tando por desgracia :(
 - hago modelos roboticos
 - entre otras cosas....
