@@ -15,15 +15,6 @@ Me apasiona la investigación interdisciplinaria, y busco desarrollar soluciones
 - Python
 - Linux
 - Redes de datos
-- Web frontentd
-- C
-- C++
-
-
-## Cosas en las que todavia no soy experto pero estoy aprendiendo
-- Fisica aplicada
-- Matematicas
-- Electronica
 
 ## Mas de mi tiempo libre
 - intereses literarios: filosofia, ciencias, finanzas, medicina, estoicistmo, crecimiento personal
